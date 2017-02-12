@@ -12,14 +12,15 @@
     <modules>
         <module>simple-camelroute-01</module>
     </modules>
+
     <packaging>pom</packaging>
 
     <dependencies>
-    <dependency>
-        <groupId>org.apache.camel</groupId>
-        <artifactId>camel-core</artifactId>
-        <version>2.15.6</version>
-    </dependency>
+        <dependency>
+            <groupId>org.apache.camel</groupId>
+            <artifactId>camel-core</artifactId>
+            <version>2.15.6</version>
+        </dependency>
     </dependencies>
 
 

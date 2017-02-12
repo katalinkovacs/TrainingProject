@@ -2,7 +2,6 @@ package simple.camelroute01.routes;
 
 import org.apache.camel.builder.RouteBuilder;
 
-
 public class Route01 extends RouteBuilder{
 
     public void configure() throws Exception {
